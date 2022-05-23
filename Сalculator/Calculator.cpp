@@ -1,6 +1,6 @@
 #include "Calculator.h"
 #include <Windows.h>
-using namespace Ñalculator;
+using namespace Calculator;
 int WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int) {
     Application::EnableVisualStyles();
     Application::SetCompatibleTextRenderingDefault(false);
