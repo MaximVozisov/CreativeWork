@@ -1,6 +1,6 @@
 #pragma once
 
-namespace �alculator {
+namespace Calculator {
 
 	using namespace System;
 	using namespace System::ComponentModel;
